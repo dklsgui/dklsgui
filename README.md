@@ -25,7 +25,12 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dklsgui&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
-
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/dklsgui/dklsgui/main/assets/github-contribution-grid-snake.svg" />
+</div> -->
+<!-- <div align="center">
+    <img src="https://raw.githubusercontent.com/dklsgui/dklsgui/main/assets/github-contribution-grid-snake.svg" />
+</div> -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
